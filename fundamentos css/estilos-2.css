@@ -1,0 +1,48 @@
+/*Display*/
+h1 {
+    border-style: solid;
+    font-size: 2rem;
+}
+
+a {
+    display: block;
+}
+
+/*border*/
+.border {
+    border: 1px solid red;
+}
+
+/*padding*/
+.pt-50 {
+    padding-top: 50px;
+}
+
+.pb-50 {
+    padding-bottom: 50px;
+}
+
+.pr-50 {
+    padding-right: 50px;
+}
+
+.pl-50 {
+    padding-left: 50px;
+}
+
+.p-total {
+    padding: 50px;
+}
+
+/*margin*/
+
+.mt-100 {
+    margin-top: 100px;
+}
+
+/*width and heidth*/
+
+.w-100 {
+    width: 100px;
+
+}
